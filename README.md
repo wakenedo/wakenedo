@@ -1,6 +1,7 @@
 ### Hi there 👋
-[![wakenedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakenedo)](https://github.com/wakenedo/github-readme-stats)
-[wakenedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakenedo&count_private=true)
+[![wakenedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakenedo)](https://github.com/wakenedo/github-readme-stats&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakenedo&hide_progress=true)](https://github.com/wakenedo/github-readme-stats)
+
 <!--
 **wakenedo/wakenedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
