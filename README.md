@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, Python, Tailwind, TypeScript**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon!)
+- 👨‍💻 All of my projects are available at [My website](https://alexandre-alvarenga-developer.netlify.app/))
 
 - 📝 I regularly write articles on [Coming Soon!](Coming Soon!)
 
