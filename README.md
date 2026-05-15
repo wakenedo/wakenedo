@@ -11,13 +11,6 @@
   <strong>visual experience, animation, and developer ergonomics</strong>.
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/alexandre-alvarenga-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-</p>
-
-</div>
 
 ###  What I Focus On
 
@@ -57,15 +50,6 @@ Auth       → Firebase, JWT, OAuth2
 
 <p align="center">
   Interested in frontend architecture, UI systems, or creative JavaScript tooling?
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/alexandre-alvarenga-developer/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Alexandre%20Alvarenga-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
 </p>
 
 ###  Featured Project
